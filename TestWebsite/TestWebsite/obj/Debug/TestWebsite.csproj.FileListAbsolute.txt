@@ -1,0 +1,5 @@
+C:\Users\Brent\documents\visual studio 2012\Projects\TestWebsite\TestWebsite\bin\TestWebsite.dll
+C:\Users\Brent\documents\visual studio 2012\Projects\TestWebsite\TestWebsite\bin\TestWebsite.pdb
+C:\Users\Brent\documents\visual studio 2012\Projects\TestWebsite\TestWebsite\obj\Debug\TestWebsite.csprojResolveAssemblyReference.cache
+C:\Users\Brent\documents\visual studio 2012\Projects\TestWebsite\TestWebsite\obj\Debug\TestWebsite.dll
+C:\Users\Brent\documents\visual studio 2012\Projects\TestWebsite\TestWebsite\obj\Debug\TestWebsite.pdb
